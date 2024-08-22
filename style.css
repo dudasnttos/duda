@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(61, 25, 25);
+    color: rgb(65, 30, 131);
+    font-family:  "Mate SC", serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+
+}
+button {
+    background-color: rgb(75, 42, 165);
+    color: rgb(24, 1, 1);
+    font-family: "Mate SC", serif;;
+}
